@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tjcross31
+- 👀 I’m interested in scientific coding and computational fluid dynamics
+- 🌱 I’m currently learning OpenFOAM
+- 💞️ I’m looking to collaborate on CFD projects
+- 📫 How to reach me: email - tjcross31@gmail.com
